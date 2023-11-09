@@ -20,7 +20,7 @@ The analysis presented here involves a deep dive into the Wisconsin Breast Cance
 
 Upon completion of the study, it was found that Support Vector Machines (SVM) and Multi-Layer Perceptrons (MLP) exhibited superior performance in the classification tasks. Visual results and performance metrics for these models are provided to demonstrate their predictive capabilities within this domain.
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Output Images and Plots/finalperformance.png)
 
 
 ## Conclusion
